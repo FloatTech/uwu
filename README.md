@@ -31,4 +31,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 > - You CAN'T use this logo for commercial purposes.
 > - The FloatTech organization and its members have the right to use this logo for any purpose.(Except for the font.)
 
-Copyright © 2024 [@Lipraty](https://github.com/Lipraty) All Rights Reserved.
+Copyright © 2024 [@Jiang-Red](https://github.com/Jiang-Red) [@fumiama](https://github.com/fumiama) All Rights Reserved.
